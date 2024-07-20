@@ -11,7 +11,7 @@
 - 你好
   
 <font face='隶书' color='green' SIZE='10'>
-+  *The second step is* to practice the basic knowledge of the syntax .
++ *The second step is* to practice the basic knowledge of the syntax .
 <font face='Times New Roman' color='white' SIZE='15'>
 **The third step is* to enjoy it !
 
