@@ -2,7 +2,7 @@
 
 ## **这是第二级标题**
 
-###___这是第三级标题___
+### ___这是第三级标题___
 
 **How to be a good programmer ?**
 <font face='仿宋' color='red' SIZE='5'>
@@ -11,9 +11,9 @@
 - 你好
   
 <font face='隶书' color='green' SIZE='10'>
-+ *The second step is* to practice the basic knowledge of the syntax .
++  *The second step is* to practice the basic knowledge of the syntax .
 <font face='Times New Roman' color='white' SIZE='15'>
-* *The third step is* to enjoy it !
+**The third step is* to enjoy it !
 
 <font face='Times New Roman' color='red' SIZE='1'>
 1. The frist letter of ONE is O .
