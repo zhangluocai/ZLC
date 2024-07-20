@@ -23,7 +23,7 @@
 
 <font face='Times New Roman' color='blue' SIZE='3'>
 3. The third letter of ONE is E .
-</font>
+<\font>
 
 ![笔记1](hello.jpg)
 ![笔记2](images/bye.jpg)
