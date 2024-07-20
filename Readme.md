@@ -7,6 +7,7 @@
 **How to be a good programmer ?**
 <font face='仿宋' color='red' SIZE='5'>
 - *The frist step is* to learn the basic knowledge of the language .
+- 你好
 <font face='隶书' color='green' SIZE='10'>
 + *The second step is* to practice the basic knowledge of the syntax .
 <font face='Times New Roman' color='white' SIZE='15'>
