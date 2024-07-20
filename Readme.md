@@ -9,7 +9,7 @@
   
 - 你好
   
-+ *The second step is* to practice the basic knowledge of the syntax .
+*The second step is* to practice the basic knowledge of the syntax .
 
 **The third step is* to enjoy it !
 
@@ -18,8 +18,6 @@
 2. The second letter of ONE is N .
 
 3. The third letter of ONE is E .
-
-
 
 ![笔记1](hello.jpg)
 ![笔记2](images/bye.jpg)
