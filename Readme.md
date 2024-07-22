@@ -21,6 +21,12 @@
 
 ![笔记1](hello.jpg)
 
+<img src="images/bye.jpg" width=100 heigth=1000 >
+
+<img src=<"images/bye.jpg" style=zoom:50% >
+
+下一行的看起来不行,但有这么个道理
+
 ##这是我的模型
 
 ![模型示例](videos/1234.jpg)
